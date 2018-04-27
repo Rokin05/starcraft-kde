@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Starcraft
+Description=Starcraft Theme
+Author=Rokin
+Copyright=
+License=CC-BY-SA
+Type=sddm-theme
+Version=1
+Website=https://github.com/Rokin05
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=Starcraft
+Theme-API=2.0
