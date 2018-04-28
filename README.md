@@ -5,17 +5,19 @@
 </p><p align="center">
   <sup><sub>Screenshot Details: Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | Kvantum Theme: Starcraft | Aurorae decoration: Starcraft | Plasma Theme: Starcraft | Dock: <a href="https://github.com/psifidotos/Latte-Dock">Latte Dock</a></sub></sup></p>
 
-Starcraft KDE - a dark theme for Plasma 5 desktop.
+
+
+##### Starcraft KDE - a dark theme for Plasma 5 desktop.
 
 In this repository you'll find:
 
-- Aurorae Themes
-- Kvantum Themes
-- Plasma Color Schemes
-- Plasma Desktop Themes
-- Plasma Look-and-Feel Settings
-- SDDM Theme
-- Wallpapers
+- [Plasma Look-and-Feel Pack](https://www.opendesktop.org/p/1231520/)
+- [Plasma Desktop Themes](https://www.opendesktop.org/p/1231518/)
+- [Plasma Color Schemes](https://www.opendesktop.org/p/1231519/)
+- [Aurorae Themes](https://www.opendesktop.org/p/1231523/)
+- [Kvantum Themes](https://www.opendesktop.org/p/1231521/)    
+- [SDDM Theme](https://www.opendesktop.org/p/1231525/)    
+- [Wallpapers](https://www.opendesktop.org/p/1231526/)    
 
 ## Installation
 
