@@ -7,7 +7,7 @@
 
 
 
-##### Starcraft KDE - a dark theme for KDE Plasma 5 desktop :
+## Starcraft KDE - a dark theme for KDE Plasma 5 desktop :
 
 In this repository you'll find:
 
@@ -18,6 +18,8 @@ In this repository you'll find:
 - [Kvantum Themes](https://www.opendesktop.org/p/1231521/)    
 - [SDDM Theme](https://www.opendesktop.org/p/1231525/)    
 - [Wallpapers](https://www.opendesktop.org/p/1231526/)    
+
+
 
 ## Installation
 
