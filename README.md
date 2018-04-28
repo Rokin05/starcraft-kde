@@ -7,7 +7,7 @@
 
 
 
-##### Starcraft KDE - a dark theme for Plasma 5 desktop.
+##### Starcraft KDE - a dark theme for KDE Plasma 5 desktop :
 
 In this repository you'll find:
 
